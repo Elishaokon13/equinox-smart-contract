@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Fox Coin 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/albertocruzdev" target="_blank">
-    <img alt="Twitter: albertocruzdev" src="https://img.shields.io/twitter/follow/albertocruzdev.svg?style=social" />
+  <a href="https://twitter.com/Elishaokon13" target="_blank">
+    <img alt="Twitter: Elishaokon13" src="https://img.shields.io/twitter/follow/Elishaokon13.svg?style=social" />
   </a>
 </p>
 
@@ -36,12 +36,12 @@ npm run dev
 
 ## Author
 
-👤 **Alberto Cruz Luis**
+👤 **Elisha David Okon**
 
-* Website: https://www.albertocruzluis.com/
-* Twitter: [@AlbertoCruzdev](https://twitter.com/AlbertoCruzdev)
-* Github: [@AlbertoCruzLuis](https://github.com/AlbertoCruzLuis)
-* LinkedIn: [@albertocruzluis](https://linkedin.com/in/albertocruzluis)
+* Website: https://www.elishadavid.netlify.app/
+* Twitter: [@Elishaokon13](https://twitter.com/Elishaokon13)
+* Github: [@TrexCruz](https://github.com/TrexCruz)
+
 
 ## Show your support
 
