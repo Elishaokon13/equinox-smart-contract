@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to Fox Coin 👋</h1>
 <p>
+  
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/Elishaokon13" target="_blank">
     <img alt="Twitter: Elishaokon13" src="https://img.shields.io/twitter/follow/Elishaokon13.svg?style=social" />
@@ -12,7 +13,7 @@
     <img alt="MemeCoin: Landing" src="public/assets/LandingPage.png" />
 </a>
 
-### ✨ [Demo](https://foxcoin.vercel.app/)
+### ✨ [Demo](https://fox-coinex.netlify.app/)
 
 ## Install
 
